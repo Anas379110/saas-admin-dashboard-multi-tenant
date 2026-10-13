@@ -1,19 +1,9 @@
 # 🛠️ التقنيات المستخدمة — لوحة تحكم SaaS متعددة المستأجرين
 
-### الواجهة الأمامية (Frontend)
-- React
-### الخلفية (Backend)
-- .NET Core
-### قواعد البيانات والتخزين
-- SQL Server (Multi-tenant)
-### الأمان والصلاحيات
-- Azure AD SSO
-### البنية التحتية والنشر (DevOps)
+- Next.js
+- Angular
+- TypeScript
+- ASP.NET Core
+- SQL Server
 - Azure
-### أدوات مساندة (في كل المشاريع)
-- **Git** لإدارة الإصدارات مع نموذج Branching منظم (Feature Branches + Pull Requests)
-- **اختبارات آلية**: اختبارات وحدة (Unit Tests) للمنطق الحساس، واختبارات تكامل (Integration Tests) لنقاط الـ API الأساسية
-- **مراقبة وتسجيل (Logging & Monitoring)**: تجميع مركزي للسجلات وتنبيهات عند تجاوز حدود معينة في الأداء أو الأخطاء
-
----
-*جزء من [توثيق المشروع الكامل](./PROJECT.md)*
+- SignalR
