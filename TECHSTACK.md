@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — لوحة تحكم SaaS متعددة المستأجرين
+# 🛠️ Technologies Used — Multi-Tenant SaaS Dashboard
 
 - Next.js
 - Angular

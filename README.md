@@ -1,21 +1,20 @@
-# لوحة تحكم SaaS متعددة المستأجرين
-**Multi-Tenant SaaS Dashboard Application** · التصنيف: متكامل (Full Stack)
+# Multi-Tenant SaaS Dashboard Application
+**Multi-Tenant SaaS Dashboard Application** · Category: Full Stack
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-منصة SaaS مع عزل بيانات المستأجرين وـ Azure AD SSO.
+## Project Overview
+SaaS platform with tenant data isolation and Azure AD SSO.
 
-## أبرز النقاط
-- لوحة Angular مع D3.js + Chart.js
-- Azure Service Bus للخدمات المبنية على الأحداث
-- RBAC مع إدارة صلاحيات لكل مستأجر
+## Highlights
+- Angular dashboard with D3.js + Chart.js
+- Azure Service Bus for event-driven services
+- RBAC with per-tenant permissions management
 
-## الدور
-مطوّر Full Stack: الواجهة الأمامية والخدمات الخلفية وقواعد البيانات والنشر.
+## Role
+Full Stack Developer: frontend, backend services, databases, and deployment.
 
-## التقنيات المستخدمة
+## Technologies
 Next.js, Angular, TypeScript, ASP.NET Core, SQL Server, Azure, SignalR
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
